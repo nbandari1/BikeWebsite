@@ -63,15 +63,13 @@ The Bike Website serves as a complete e-commerce solution for bike enthusiasts. 
   
 *(Additional milestones like "Integration of Dealer Finder" or "Test Ride Booking System" may be added based on sprint progress.)*
 
----
-
-### 3.8. WBS Structure
+#### 3.8. WBS Structure
 The following diagrams illustrate the Work Breakdown Structure (WBS) for the website:
 
 <img width="624" height="416" alt="Picture1" src="https://github.com/user-attachments/assets/fd8fa010-13e3-4827-82cd-3aefe8653143" >
 <img width="624" height="47" alt="Picture2" src="https://github.com/user-attachments/assets/bcdea38a-f8b4-429a-948e-7808f0e8b9bb" />
 
-### 3.9. Requirements Traceability Matrix
+#### 3.9. Requirements Traceability Matrix
 | Req ID | Requirement                             | Del ID | Deliverable                                               | Owner | Status  |
 |--------|------------------------------------------|--------|-----------------------------------------------------------|-------|---------|
 | REQ01  | Frontend framework selected and set up   | DEL01  | React and CSS implemented for static pages                | Team  | Pending |
