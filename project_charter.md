@@ -71,7 +71,7 @@ The Bike Website serves as a complete e-commerce solution for bike enthusiasts. 
   - Handle out-of-stock products with substitutions
 
 - **Returns & Service Requests**
-  -Enable customers to request returns or services
+  - Enable customers to request returns or services
 
 - **Cart & Checkout System**
   - Add multiple bikes to cart
