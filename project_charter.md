@@ -100,8 +100,8 @@ The Bike Website serves as a complete e-commerce solution for bike enthusiasts. 
 ---
 
 ### 3.8. WBS Structure
-![Web Structure](<img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/8dfcb8a1-4e5d-4625-9a03-c905fb837d2f" />)
-![Web Structure](<img width="975" height="73" alt="image" src="https://github.com/user-attachments/assets/7067a801-7c45-472a-815b-32d68fd178c8" />)
+(<img width="624" height="416" alt="Picture1" src="https://github.com/user-attachments/assets/fd8fa010-13e3-4827-82cd-3aefe8653143" >)
+(<img width="624" height="47" alt="Picture2" src="https://github.com/user-attachments/assets/bcdea38a-f8b4-429a-948e-7808f0e8b9bb" />)
 
 ### 3.9. Requirements Traceability Matrix
 | Req ID | Requirement                             | Del ID | Deliverable                                               | Owner | Status  |
