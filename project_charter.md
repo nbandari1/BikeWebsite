@@ -24,43 +24,43 @@ The Bike Website serves as a complete e-commerce solution for bike enthusiasts. 
 
 ### 3. Milestones
 
-#### 3.1. Project Planning and Technology Selection
-- **Define Technology Stack**
-  - Frontend: React, CSS
-  - Backend: Node.js, Express.js
-  - Database: MongoDB
-  - Hosting/Domain: Netlify
-- **Finalize Development Tools**
-  - Design & Prototyping: Figma
-  - Collaboration & Testing: MS Teams
- 
-#### 3.2. Frontend Development
-- **Design UI/UX:** Create wireframes in Figma like Home, Product Listing, Product Details, Cart, Checkout, Returns/Service.
-- **Implement Static Test Pages:** Develop React components for static pages and test styling with CSS.
-- **Add Interactive Features:** Implement Shopping cart functionality, product filtering/sorting, add-to-cart and remove-from-cart actions.
-
-#### 3.3. Backend Development
-- **Set Up Node.js + Express Server:** Create API endpoints for products, cart, orders, and returns along with test APIs in development environment.
-- **Database Integration:** Store product information, inventory, and orders in MongoDB. Implement CRUD operations for products, promotions, and order management.
-- **Backend Testing:** Ensure correct handling of orders, returns, and inventory updates.
-
-#### 3.4. Features & Tools
-- **Product Management:** Admin interface for adding/editing bikes with option to set promotions, weekly price changes, and final sale items.
-- **Customer Order Management:** Allow customers to place orders, select pickup/delivery, and pay. Handle out-of-stock products with substitutions.
-- **Returns & Service Requests:** Enable customers to request returns or services.
-- **Cart & Checkout System:** Add multiple bikes to cart and calculate totals, taxes, and discounts.
-
-#### 3.5. Deployment & Hosting
-- **Host Website:** Deploy frontend and backend on Netlify, connect custom domain.
-- **Testing:** Test across devices and browsers by conducting user testing for buying flow, cart, and returns.
-
-#### 3.6. Documentation & Final Review
-- **Prepare Documentation:** Instructions for admin and customer usage with technical documentation for APIs and database structure.
-
-#### 3.7. Final QA
-- Test end-to-end shopping, checkout, and returns.
-- Verify performance and responsiveness.
-
+  #### 3.1. Project Planning and Technology Selection
+  - **Define Technology Stack**
+    - Frontend: React, CSS
+    - Backend: Node.js, Express.js
+    - Database: MongoDB
+    - Hosting/Domain: Netlify
+  - **Finalize Development Tools**
+    - Design & Prototyping: Figma
+    - Collaboration & Testing: MS Teams
+   
+  #### 3.2. Frontend Development
+  - **Design UI/UX:** Create wireframes in Figma like Home, Product Listing, Product Details, Cart, Checkout, Returns/Service.
+  - **Implement Static Test Pages:** Develop React components for static pages and test styling with CSS.
+  - **Add Interactive Features:** Implement Shopping cart functionality, product filtering/sorting, add-to-cart and remove-from-cart actions.
+  
+  #### 3.3. Backend Development
+  - **Set Up Node.js + Express Server:** Create API endpoints for products, cart, orders, and returns along with test APIs in development environment.
+  - **Database Integration:** Store product information, inventory, and orders in MongoDB. Implement CRUD operations for products, promotions, and order management.
+  - **Backend Testing:** Ensure correct handling of orders, returns, and inventory updates.
+  
+  #### 3.4. Features & Tools
+  - **Product Management:** Admin interface for adding/editing bikes with option to set promotions, weekly price changes, and final sale items.
+  - **Customer Order Management:** Allow customers to place orders, select pickup/delivery, and pay. Handle out-of-stock products with substitutions.
+  - **Returns & Service Requests:** Enable customers to request returns or services.
+  - **Cart & Checkout System:** Add multiple bikes to cart and calculate totals, taxes, and discounts.
+  
+  #### 3.5. Deployment & Hosting
+  - **Host Website:** Deploy frontend and backend on Netlify, connect custom domain.
+  - **Testing:** Test across devices and browsers by conducting user testing for buying flow, cart, and returns.
+  
+  #### 3.6. Documentation & Final Review
+  - **Prepare Documentation:** Instructions for admin and customer usage with technical documentation for APIs and database structure.
+  
+  #### 3.7. Final QA
+  - Test end-to-end shopping, checkout, and returns.
+  - Verify performance and responsiveness.
+  
 *(Additional milestones like "Integration of Dealer Finder" or "Test Ride Booking System" may be added based on sprint progress.)*
 
 ---
