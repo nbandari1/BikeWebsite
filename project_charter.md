@@ -137,9 +137,13 @@ Total : 42,000 × 6 =  $252,000
 | Total | $282,545.61 |
 
 
-### 6. Organization and Stakeholders
+### 6. Gantt Chart
+<img width="1879" height="1218" alt="gantt" src="https://github.com/user-attachments/assets/21bb61b7-f399-4d15-b507-1c53533209da" />
+
+
+### 7. Organization and Stakeholders
 (to be left empty)
 
-### 7. Risks, Assumptions, and Constraints 
+### 8. Risks, Assumptions, and Constraints 
 (to be left empty)
 
