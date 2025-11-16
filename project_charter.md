@@ -94,7 +94,48 @@ The following diagrams illustrate the Work Breakdown Structure (WBS) for the web
 ---
 
 ### 5. Preliminary Budget 
-(to be left empty)
+5.1 Personnel Cost Per Sprint
+| **Role** | **Rate** | **Allocation**  | **Daily Burn Rate**  | **Days (Sprint)** | **Sprint Burn Rate** |
+| --- | --- | --- | --- | --- | --- |
+| Product Owner | $1,000 | 50% | $500 | 10 | $5,000 |
+| ScrumMaster | $900 | 100% | $900 | 10 | $9,000 |
+| Software Engineer 1 | $850 | 100% | $850 | 10 | $8,500 |
+| Software Engineer 2 | $850 | 100% | $850 | 10 | $8,500 |
+| Frontend Developer | $750 | 100% | $750 | 10 | $7,500 |
+| Tester | $700 | 50% | $350 | 10 | $3,500 |
+| Total |  |  |  |  | $42,000 |
+
+5.2 Total Personnel Cost
+| **Category** | **Value**  |
+| --- | --- |
+| Per Sprint | $42,000 |
+| Sprints | 6 |
+
+Total : 42,000 × 6 =  $252,000
+
+5.3 Fixed Costs
+| **Item** | **Qtd** | **Cost/Item** | **Total Cost** |
+| --- | --- | --- | --- |
+| Hosting | 1 | 4.99 CAD/Month | 59.88 CAD/year |
+| Domain | 1 | 12.99 CAD/Year | 12.99 CAD/year |
+| Tools/Licenses | 1 | 200.00 CAD/Year | 200.00 CAD/year |
+| Total Fixed Costs |  |  | $272.87 per year |
+
+
+5.4 Contigency
+| **Basis** | **Calculation** | **Contingency**  |
+| --- | --- | --- |
+| Personnel Cost + Fixed Cost| 252,000 + 272.87 = 252,272.87 | $30,272.74 (12%) |
+
+
+5.5 Total Estimated Cost
+| **Category** | **Value** |
+| --- | --- |
+| Personnel | $252,000 |
+| Fixed/Infrastructure | $272.87 |
+| Contingency (12%) | $30,272.74 |
+| Total | $282,545.61 |
+
 
 ### 6. Organization and Stakeholders
 (to be left empty)
