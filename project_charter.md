@@ -151,5 +151,6 @@ Total : 42,000 × 6 =  $252,000
 
 
 ### 8. Risks, Assumptions, and Constraints 
-(to be left empty)
+<img width="904" height="726" alt="image" src="https://github.com/user-attachments/assets/f269ecef-b2e9-4567-a061-2835f9cca697" />
+
 
