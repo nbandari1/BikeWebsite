@@ -159,7 +159,7 @@ Total : 42,000 × 6 =  $252,000
 - Unexpected increase in hosting or third-party service costs
 - Poor user interface design
 
-  8.2 Risk Evaluation Chart
+ 8.2 Risk Evaluation Chart
 <img width="904" height="726" alt="image" src="https://github.com/user-attachments/assets/f269ecef-b2e9-4567-a061-2835f9cca697" />
 
 
