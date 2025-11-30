@@ -151,6 +151,15 @@ Total : 42,000 × 6 =  $252,000
 
 
 ### 8. Risks, Assumptions, and Constraints 
+ 8.1 Risks
+- Incorrect or missing data due to database sync errors
+- Server or API downtime disrupts checkout and product data loading
+- Issues with sprint coordination
+- Security breach or payment fraud
+- Unexpected increase in hosting or third-party service costs
+- Poor user interface design
+
+  8.2 Risk Evaluation Chart
 <img width="904" height="726" alt="image" src="https://github.com/user-attachments/assets/f269ecef-b2e9-4567-a061-2835f9cca697" />
 
 
