@@ -145,7 +145,8 @@ Total : 42,000 × 6 =  $252,000
 
 ### 7. Organization and Stakeholders
 7.1 Stakeholder Analysis Matrix
-<img width="1154" height="673" alt="matrix" src="https://github.com/user-attachments/assets/28953712-5304-4e9d-b8dd-2677c237a05a" />
+<img width="2308" height="1346" alt="image" src="https://github.com/user-attachments/assets/c886a15c-403e-4e94-a908-9b529d8eaa13" />
+
 
 7.2 Communications Plan
 <img width="1536" height="1024" alt="communication_plan" src="https://github.com/user-attachments/assets/bde1076d-201b-4bae-a47f-fc4f8d7c25a4" />
