@@ -138,7 +138,8 @@ Total : 42,000 × 6 =  $252,000
 
 
 ### 6. Gantt Chart
-<img width="1277" height="709" alt="gantt" src="https://github.com/user-attachments/assets/6c257524-20bb-40f3-9728-8b931466c5a1" />
+<img width="2554" height="1418" alt="image" src="https://github.com/user-attachments/assets/4dfcdfe1-b05e-46bc-9aa6-22bb9f3da28a" />
+
 
 
 ### 7. Organization and Stakeholders
