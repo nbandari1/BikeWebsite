@@ -66,8 +66,8 @@ The Bike Website serves as a complete e-commerce solution for bike enthusiasts. 
 #### 3.8. WBS Structure
 The following diagrams illustrate the Work Breakdown Structure (WBS) for the website:
 
-<img width="900" height="600" alt="Picture1" src="https://github.com/user-attachments/assets/fd8fa010-13e3-4827-82cd-3aefe8653143" >
-<img width="600" height="98" alt="Picture2" src="https://github.com/user-attachments/assets/bcdea38a-f8b4-429a-948e-7808f0e8b9bb" />
+<img width="741" height="491" alt="image" src="https://github.com/user-attachments/assets/8648bd17-2b2e-4464-8624-6ed4a4843880" />
+
 
 #### 3.9. Requirements Traceability Matrix
 | Req ID | Requirement                             | Del ID | Deliverable                                               | Owner | Status  |
