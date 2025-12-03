@@ -138,7 +138,8 @@ Total : 42,000 × 6 =  $252,000
 
 
 ### 6. Gantt Chart
-<img width="2554" height="1418" alt="image" src="https://github.com/user-attachments/assets/4dfcdfe1-b05e-46bc-9aa6-22bb9f3da28a" />
+<img width="2554" height="1418" alt="image" src="https://github.com/user-attachments/assets/38e442e8-19ba-4c85-95df-dc0ce0779339" />
+
 
 
 
